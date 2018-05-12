@@ -1,0 +1,3 @@
+# apta-pops
+Portal Alimentos Métodos POPs
+Este aplicativo se destina a orientar os usuários de laboratório de análises de alimentos da UTFPR campus Londrina, a seguir procedimentos operacionais padronizados quando da aplicação dos métodos de análise em alimentos e suas tecnologias, em experimentos previamente agendados e autorizados, com o objetivo da realização da experiência com sucesso, bem como evitar acidentes, preservar a integridade física dos respectivos usuários, como também a melhor aplicação e dos recursos envolvidos, quer sejam equipamentos, reagentes e demais materiais de limpeza e manutenção direta ou indiretamente envolvidos na experiência em questão. 
