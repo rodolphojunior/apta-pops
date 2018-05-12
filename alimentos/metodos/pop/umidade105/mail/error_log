@@ -1,0 +1,6 @@
+[23-Mar-2018 19:47:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php70/usr/lib64/php/modules/mysqli.so' - /opt/alt/php70/usr/lib64/php/modules/mysqli.so: undefined symbol: zval_used_for_init in Unknown on line 0
+[23-Mar-2018 19:47:24 UTC] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
